@@ -1,4 +1,4 @@
-
+# Rotate elements of array by d spaces
 arr=[1,2,3,4,5,6,7]
 lst = []
 d=int(input("Enter the positions to be skipped "))
