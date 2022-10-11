@@ -1,3 +1,4 @@
+# sum of all elements of list
 arr=[]
 count=0
 n=int(input("enter the no of elements:" ))
