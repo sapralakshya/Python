@@ -1,5 +1,5 @@
 # Finding second most freq element
-lst=[1,1,1,1,4,3,3,2,2]
+lst=["aaa","aaa","aaa","bbb","bbb","ccc"]
 num=lst[0]
 temp=0
 for i in lst:
