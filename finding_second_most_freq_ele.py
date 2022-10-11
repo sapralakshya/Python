@@ -1,3 +1,4 @@
+# Finding second most freq element
 lst=[1,1,1,1,4,3,3,2,2]
 num=lst[0]
 temp=0
