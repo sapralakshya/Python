@@ -1,3 +1,4 @@
+# Flatten nested list
 list1=[2,[3,4,5],[3,4,5],[4,5],[6,7]]
 list2=[]
 for j in list1:
