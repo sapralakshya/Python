@@ -1,3 +1,4 @@
+# Finding the triplet in a list whose sum is equal to input value
 list1=[12,3,9,4,1,2]
 triplet_sum=24
 list2=[]
